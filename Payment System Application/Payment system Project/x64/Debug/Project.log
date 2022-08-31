@@ -1,0 +1,28 @@
+﻿  app.c
+E:\Embedded Systems Professional Nanodegree Program\Project\Application\app.c(32,3): warning C4013: 'printf' undefined; assuming extern returning int
+E:\Embedded Systems Professional Nanodegree Program\Project\Application\app.c(33,11): warning C4098: 'appStart': 'void' function returning a value
+E:\Embedded Systems Professional Nanodegree Program\Project\Application\app.c(42,11): warning C4098: 'appStart': 'void' function returning a value
+E:\Embedded Systems Professional Nanodegree Program\Project\Application\app.c(51,11): warning C4098: 'appStart': 'void' function returning a value
+E:\Embedded Systems Professional Nanodegree Program\Project\Application\app.c(61,11): warning C4098: 'appStart': 'void' function returning a value
+E:\Embedded Systems Professional Nanodegree Program\Project\Application\app.c(70,11): warning C4098: 'appStart': 'void' function returning a value
+E:\Embedded Systems Professional Nanodegree Program\Project\Application\app.c(79,11): warning C4098: 'appStart': 'void' function returning a value
+E:\Embedded Systems Professional Nanodegree Program\Project\Application\app.c(89,11): warning C4098: 'appStart': 'void' function returning a value
+E:\Embedded Systems Professional Nanodegree Program\Project\Application\app.c(107,11): warning C4098: 'appStart': 'void' function returning a value
+E:\Embedded Systems Professional Nanodegree Program\Project\Application\app.c(124,47): warning C4020: 'saveTransaction': too many actual parameters
+E:\Embedded Systems Professional Nanodegree Program\Project\Application\app.c(130,54): warning C4020: 'recieveTransactionData': too many actual parameters
+E:\Embedded Systems Professional Nanodegree Program\Project\Application\app.c(142,2): warning C4013: 'scanf' undefined; assuming extern returning int
+  card.c
+E:\Embedded Systems Professional Nanodegree Program\Project\Card\card.c(13,2): warning C4013: 'gets' undefined; assuming extern returning int
+  main.c
+  accountsDB.c
+  server.c
+E:\Embedded Systems Professional Nanodegree Program\Project\Server\server.c(13,1): warning C4029: declared formal parameter list different from definition
+E:\Embedded Systems Professional Nanodegree Program\Project\Server\server.c(28,3): warning C4013: 'printf' undefined; assuming extern returning int
+E:\Embedded Systems Professional Nanodegree Program\Project\Server\server.c(78,1): warning C4029: declared formal parameter list different from definition
+E:\Embedded Systems Professional Nanodegree Program\Project\Server\server.c(104,4): warning C4013: 'puts' undefined; assuming extern returning int
+  transactionsDB.c
+  terminal.c
+  Generating Code...
+E:\Embedded Systems Professional Nanodegree Program\Project\Terminal\terminal.c(173): warning C4715: 'int_To_char': not all control paths return a value
+E:\Embedded Systems Professional Nanodegree Program\Project\Card\card.c(126): warning C4715: 'char_To_int': not all control paths return a value
+  Project.vcxproj -> E:\Embedded Systems Professional Nanodegree Program\Project\x64\Debug\Project.exe
